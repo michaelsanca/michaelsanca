@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, soy jhon</h1>
 <h3 align="center">backend programmer & content creator</h3>
+<img src="https://github.com/michaelsanca/michaelsanca/blob/d3a5b66db549620cfd536ed53cb6bb1ba955953d/portada%20github%20y%20linkedln.jpeg" alt="Portada">
 
 - 🔭 I am currently studying **desarrollo de sistemas I.**
 
